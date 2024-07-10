@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5caec76e-b931-4934-933f-d494a977dd4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Final_Const_Dynamic_Keyword.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Const_Dynamic_Keyword.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Type.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Type.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,6 +26,9 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2j40jrF1H2Gk4nB5JzCWsg5n4Fb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
