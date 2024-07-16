@@ -43,9 +43,28 @@ if (age <=17){print('Child');}
 else if (age >=24){print('Adult');}
 else {print('Invalid');}
 
+//if,else & else-if Example-4 (12 Month)
+var month =6;
+if (month ==1){print('January');}
+else if (month ==2){print('Fabuary');}
+else if (month ==3){print('March');}
+else if (month ==4){print('April');}
+else if (month ==5){print('May');}
+else if (month ==6){print('Jun');}
+else if (month ==7){print('July');}
+else if (month == 8){print('Aught');}
+else if (month ==9){print('September');}
+else if (month ==10){print('October');}
+else if (month ==11){print('November');}
+else if (month ==12){print('December');}
+else {print('Invalid');}
 
-
-
+//if,else & else-if Example-5 (vowel & consonent)
+//inter a letter
+var letter = 'T';
+if (letter =='a' || letter =='e' || letter =='i' || letter =='o' || letter =='u' ||
+    letter =='A' || letter =='E' || letter =='I' || letter =='O' || letter =='U'){print('Vowel');}
+else {print('Consonent');}
 
 }
 
