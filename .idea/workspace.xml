@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5caec76e-b931-4934-933f-d494a977dd4c" name="Changes" comment="file change">
+      <change afterPath="$PROJECT_DIR$/Null_Safty_Exception_Handling/Exception_Handling.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Null_Safty_Exception_Handling/Nullable.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Null_Safty_Exception_Handling/Parse.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart_Control_flow_Statement/Dicision-Making_Statement/Switch_Case.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Dart_Control_flow_Statement/Dicision-Making_Statement/Switch_Case.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart_Control_flow_Statement/Dicision-Making_Statement/if-else.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Dart_Control_flow_Statement/Dicision-Making_Statement/if-else.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart_Control_flow_Statement/Jump_Statement/Continue.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Dart_Control_flow_Statement/Jump_Statement/Continue.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart_Control_flow_Statement/Jump_Statement/break.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Dart_Control_flow_Statement/Jump_Statement/break.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +39,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Dart Command Line App.Continue.dart.executor": "Run",
     "Dart Command Line App.Dart_Maps.dart.executor": "Run",
     "Dart Command Line App.Dart_Set.dart.executor": "Run",
+    "Dart Command Line App.Exception_Handling.dart.executor": "Run",
     "Dart Command Line App.Fixed_Length_List.dart.executor": "Run",
     "Dart Command Line App.Growable_List.dart.executor": "Run",
     "Dart Command Line App.List_Property.dart.executor": "Run",
+    "Dart Command Line App.Nullable.dart.executor": "Run",
     "Dart Command Line App.Switch_Case.dart.executor": "Run",
     "Dart Command Line App.break.dart.executor": "Run",
     "Dart Command Line App.if-else.dart.executor": "Run",
