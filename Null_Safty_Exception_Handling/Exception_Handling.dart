@@ -11,25 +11,21 @@ print('Hello All'); //no parse then print Hello  All
 //catch(e){print(e.toString());}
 */
 
-  try{
-    //throw MyExceptoin();
-    String input= "34 ii";
-    int parsevalue= int.parse(input);
-    print(parsevalue);
-  }
+//Example-2
 
-   on MyException{print('this is myExpcetion');}
-   on SocketException{print('this is socket Expcetion');}
-   on FormatException{print('this is formate Expcetion');}
 
-  catch(e){
-    print(e.toString());
-    print('Hello my name is Mahadi Hasan');
-  finally{print('I love Bangladesh');}
-  print('Love All');
-}
-  class MyException implements Exception{
-  @override
-  String toString(){return'This is ...'}
-  }
+    try{
+      String num = "10 hh";
+      int parcevalue = int.parse(num);
+      print(parcevalue);
+    }
+    catch(e){
+      print(e);
+    }
+    finally {
+      print("Code is at end, Geek");
+    }
+
+
+
 }
