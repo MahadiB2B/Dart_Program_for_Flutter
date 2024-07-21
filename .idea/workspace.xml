@@ -5,20 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5caec76e-b931-4934-933f-d494a977dd4c" name="Changes" comment="file change">
-      <change afterPath="$PROJECT_DIR$/Class/Abstract.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Class_obj.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Encapsulation.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Extends_Implemention.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Global_Local_Variable.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Inheritance.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Override.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Setter_Getter.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/This_Keyword.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function/Defining_Calling.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function/Parameterized_function.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function/Returning_function.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_Interpulation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/Inheritance/Father.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/Inheritance/Son.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/Inheritance/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/opp_principles/All_opp.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Abstract.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/opp_principles/computer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Extends_Implemention.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/opp_principles/computer_shop.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Inheritance.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Override.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/This_Keyword.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/This_Keyword.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Dart Command Line App.All_opp.dart.executor": "Run",
     "Dart Command Line App.Class_obj.dart.executor": "Run",
     "Dart Command Line App.Continue.dart.executor": "Run",
     "Dart Command Line App.Dart_Maps.dart.executor": "Run",
@@ -67,7 +64,9 @@
     "Dart Command Line App.Switch_Case.dart.executor": "Run",
     "Dart Command Line App.This_Keyword.dart.executor": "Run",
     "Dart Command Line App.break.dart.executor": "Run",
+    "Dart Command Line App.computer_shop.dart.executor": "Run",
     "Dart Command Line App.if-else.dart.executor": "Run",
+    "Dart Command Line App.main.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",

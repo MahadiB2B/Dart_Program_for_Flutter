@@ -1,5 +1,5 @@
 void main(){
-  var objj = new Myname();
+  Myname objj = new Myname();
 print(objj.myname);
 objj.printMyage();
 objj.printMyname();
