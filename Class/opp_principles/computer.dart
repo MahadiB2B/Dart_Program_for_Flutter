@@ -1,4 +1,4 @@
-class Computer{
+abstract class Computer{
   String companyName ;
   String model;
   String year ;

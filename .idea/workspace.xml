@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5caec76e-b931-4934-933f-d494a977dd4c" name="Changes" comment="file change">
-      <change afterPath="$PROJECT_DIR$/Class/Inheritance/Father.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Inheritance/Son.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/Inheritance/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/opp_principles/All_opp.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/opp_principles/computer_shop2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/opp_principles/hp_laptop.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/Abstract.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/opp_principles/computer.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/Extends_Implemention.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/opp_principles/computer_shop.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/Inheritance.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/Override.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/This_Keyword.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/This_Keyword.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/opp_principles/computer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/opp_principles/computer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/opp_principles/computer_shop.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/opp_principles/computer_shop.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +60,7 @@
     "Dart Command Line App.This_Keyword.dart.executor": "Run",
     "Dart Command Line App.break.dart.executor": "Run",
     "Dart Command Line App.computer_shop.dart.executor": "Run",
+    "Dart Command Line App.computer_shop2.dart.executor": "Run",
     "Dart Command Line App.if-else.dart.executor": "Run",
     "Dart Command Line App.main.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

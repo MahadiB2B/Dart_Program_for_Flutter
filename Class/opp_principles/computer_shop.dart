@@ -1,6 +1,7 @@
+/*
 import  'computer.dart';
 void main(){
-  Computer macbookPro = Computer(
+  Computer macbookPro = Computer( //computer class abstract so no direct define computer but any define subcomputer
       'Apple',
       'Macbool Pro',
       'M1',
@@ -14,3 +15,4 @@ print(macbookPro.macAddress);
 macbookPro.startComputer();
 //macbookPro._startInternalHardwere(); //no define because encapsulation this function
 }
+*/
