@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5caec76e-b931-4934-933f-d494a977dd4c" name="Changes" comment="file change">
-      <change afterPath="$PROJECT_DIR$/Class/employee.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/Setter_Getter_main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/opp_principles/computer_shop2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/opp_principles/computer_shop2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Setter_Getter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Setter_Getter.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Dart Command Line App.Parse.dart.executor": "Run",
     "Dart Command Line App.Parse_and_To.dart.executor": "Run",
     "Dart Command Line App.Returning_function.dart.executor": "Run",
+    "Dart Command Line App.Setter_Getter_main.dart.executor": "Run",
     "Dart Command Line App.String_Interpulation.dart.executor": "Run",
     "Dart Command Line App.Switch_Case.dart.executor": "Run",
     "Dart Command Line App.This_Keyword.dart.executor": "Run",
