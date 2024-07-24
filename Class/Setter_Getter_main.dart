@@ -5,7 +5,19 @@ void main(){
   mahadi.company;
   mahadi.designation;
 
+  //getter
  //print(mahadi.getSalary());  //()
  // print(mahadi.getSalary);
 print(mahadi.salary);
+
+//setter
+mahadi.setSalary(34000);
+print(mahadi.salary);
+
+
+//mahadi.salary=(33000);  //setter method with keyword
+//print(mahadi.salary);
+
+
+
 }
