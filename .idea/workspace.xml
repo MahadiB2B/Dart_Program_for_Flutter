@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5caec76e-b931-4934-933f-d494a977dd4c" name="Changes" comment="file change">
+      <change afterPath="$PROJECT_DIR$/Class/asynchronous.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/generics.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/Setter_Getter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Setter_Getter.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/Setter_Getter_main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Setter_Getter_main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,43 +36,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Dart Command Line App.All_opp.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Class_obj.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Continue.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Dart_Maps.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Dart_Set.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Defining_Calling.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Exception_Handling.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Fixed_Length_List.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Growable_List.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.List_Property.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Nullable.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Parameterized_function.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Parse.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Parse_and_To.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Returning_function.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Setter_Getter_main.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.String_Interpulation.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.Switch_Case.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.This_Keyword.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.break.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.computer_shop.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.computer_shop2.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.employee.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.if-else.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Dart Command Line App.main.dart.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Dart Command Line App.All_opp.dart.executor": "Run",
+    "Dart Command Line App.Class_obj.dart.executor": "Run",
+    "Dart Command Line App.Continue.dart.executor": "Run",
+    "Dart Command Line App.Dart_Maps.dart.executor": "Run",
+    "Dart Command Line App.Dart_Set.dart.executor": "Run",
+    "Dart Command Line App.Defining_Calling.dart.executor": "Run",
+    "Dart Command Line App.Exception_Handling.dart.executor": "Run",
+    "Dart Command Line App.Fixed_Length_List.dart.executor": "Run",
+    "Dart Command Line App.Growable_List.dart.executor": "Run",
+    "Dart Command Line App.List_Property.dart.executor": "Run",
+    "Dart Command Line App.Nullable.dart.executor": "Run",
+    "Dart Command Line App.Parameterized_function.dart.executor": "Run",
+    "Dart Command Line App.Parse.dart.executor": "Run",
+    "Dart Command Line App.Parse_and_To.dart.executor": "Run",
+    "Dart Command Line App.Returning_function.dart.executor": "Run",
+    "Dart Command Line App.Setter_Getter_main.dart.executor": "Run",
+    "Dart Command Line App.String_Interpulation.dart.executor": "Run",
+    "Dart Command Line App.Switch_Case.dart.executor": "Run",
+    "Dart Command Line App.This_Keyword.dart.executor": "Run",
+    "Dart Command Line App.break.dart.executor": "Run",
+    "Dart Command Line App.computer_shop.dart.executor": "Run",
+    "Dart Command Line App.computer_shop2.dart.executor": "Run",
+    "Dart Command Line App.employee.dart.executor": "Run",
+    "Dart Command Line App.generics.dart.executor": "Run",
+    "Dart Command Line App.if-else.dart.executor": "Run",
+    "Dart Command Line App.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
