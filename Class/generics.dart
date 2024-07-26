@@ -30,7 +30,7 @@ void main(){
   //generics key value
   print(doSomethings('djfij', 50.6));
   //generics string
-  printSomethings<bool>(true);
+  printSomethings<bool>(true );
 
 
 }
